@@ -52,6 +52,9 @@ python main_Semantic3D.py --mode test --gpu 0
 
 本次项目并没有使用颜色信息
 
+## 模型分割精度
+![image](https://github.com/user-attachments/assets/c23ac61e-7f03-46bf-9b7a-1ec763adb047)
+
 
 
 
