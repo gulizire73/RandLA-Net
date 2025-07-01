@@ -40,6 +40,20 @@ python main_Semantic3D.py --mode train --gpu 0
 python main_Semantic3D.py --mode test --gpu 0   
 
 ## 模型介绍
+### 点云标注
+使用CloudCompare对点云数据进行标注，分为以下6类：   
+![image](https://github.com/user-attachments/assets/06ba9de6-a7d5-4ef9-8ce7-60b582d4ea2d)   
+### 参数设置说明
+![image](https://github.com/user-attachments/assets/4e2d350a-9557-45d5-b8a1-54e033ccc636)   
+
+![image](https://github.com/user-attachments/assets/b2804517-b982-4ad0-b6f3-6e019f1fb496)   
+
+![image](https://github.com/user-attachments/assets/51fe0d57-fb4f-480b-9f29-0c2ef341ffd4)   
+
+本次项目并没有使用颜色信息
+
+
+
 
 
 
