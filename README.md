@@ -26,4 +26,12 @@ python setup.py build_ext --inplace
 
 本部分参考了https://zhuanlan.zhihu.com/p/670690151也有部分改动   
 
+## 数据说明
+把测试训练数据存在/data/semantic/original_data/目录下，按照以下格式：   
+![image](https://github.com/user-attachments/assets/5c7cc67d-deaa-4f0f-a158-057f7d1a802c)   
+其中有.labels文件为训练数据，没有.labels文件为测试数据
+
+
+
+
 
