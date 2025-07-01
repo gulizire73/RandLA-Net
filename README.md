@@ -1,5 +1,5 @@
 # RandLA-Net
-利用RandLA-Net实现室外点云数据语义分割
+利用RandLA-Net实现室外点云数据语义分割，参考了https://github.com/QingyongHu/RandLA-Net
 ## 环境配置说明
 本项目是在Linux环境下运行
 ### 安装
