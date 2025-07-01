@@ -31,6 +31,18 @@ python setup.py build_ext --inplace
 ![image](https://github.com/user-attachments/assets/5c7cc67d-deaa-4f0f-a158-057f7d1a802c)   
 其中有.labels文件为训练数据，没有.labels文件为测试数据
 
+## 运行说明
+1.数据预处理   
+python utils/data_prepare_semantic3d.py   
+2.模型训练   
+python main_Semantic3D.py --mode train --gpu 0   
+3.模型测试   
+python main_Semantic3D.py --mode test --gpu 0   
+
+## 模型介绍
+
+
+
 
 
 
