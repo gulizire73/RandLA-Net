@@ -55,6 +55,8 @@ python main_Semantic3D.py --mode test --gpu 0
 ## 模型分割精度
 ![image](https://github.com/user-attachments/assets/c23ac61e-7f03-46bf-9b7a-1ec763adb047)
 
+![image](https://github.com/user-attachments/assets/163f38f7-f388-463c-bef9-3aa6b66743a6)
+
 
 
 
